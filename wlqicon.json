@@ -3,16 +3,20 @@
   "description": "您当前版本日期为260723",
   "icons": [
     {
-      "name": "lige",
-      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/lige.png"
+      "name": "kittynetwork",
+      "url": "https:\/\/raw.githubusercontent.com\/QAQWLQ\/wlq_icon\/blob\/main\/01jichang\/kittynetwork.png"
     },
     {
-      "name": "Argentina(1)",
-      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/01Country\/Argentina(1).png"
+      "name": "nanocloud",
+      "url": "https:\/\/raw.githubusercontent.com\/QAQWLQ\/wlq_icon\/blob\/main\/01jichang\/nanocloud.png"
     },
     {
-      "name": "yztcloud",
-      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/06jichang\/yztcloud.png"
+      "name": "shanhai",
+      "url": "https:\/\/raw.githubusercontent.com\/QAQWLQ\/wlq_icon\/blob\/main\/01jichang\/shanhai.png"
+    },
+    {
+      "name": "wjkc",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/06jichang\/wjkc.png"
     }
   ]
 }
