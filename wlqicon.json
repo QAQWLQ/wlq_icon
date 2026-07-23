@@ -1,0 +1,18 @@
+{
+  "name": "WLQ图标包",
+  "description": "您当前版本日期为260723",
+  "icons": [
+    {
+      "name": "lige",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/lige.png"
+    },
+    {
+      "name": "Argentina(1)",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/01Country\/Argentina(1).png"
+    },
+    {
+      "name": "yztcloud",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/06jichang\/yztcloud.png"
+    }
+  ]
+}
