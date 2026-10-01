@@ -1,6 +1,6 @@
 {
   "name": "WLQ图标包",
-  "description": "您当前版本日期为260723",
+  "description": "您当前版本日期为261001",
   "icons": [
     {
       "name": "kittynetwork",
@@ -21,6 +21,10 @@
     {
       "name": "wjkc",
       "url": "https:\/\/raw.githubusercontent.com\/QAQWLQ\/wlq_icon\/main\/01jichang\/wjkc.png"
+    },
+    {
+      "name": "star",
+      "url": "https:\/\/raw.githubusercontent.com\/QAQWLQ\/wlq_icon\/main\/02emby\/star.png"
     }
   ]
 }
